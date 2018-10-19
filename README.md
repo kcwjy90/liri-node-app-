@@ -9,7 +9,7 @@ Liri is like siri. It can pull various information from API and display on the u
    When the user provides an input (a song), Liri grabs the 1) name of Artist 2) the name of the song 3) a preview link of the song from Spotify and 4) the album associated with that particular song from [Spotify] API.
 
 3. "movie-this"
-   When the user provides an input (a movie), Liri grabs the 1) Year the movie came out 2) its IMDB rating 3) Rotten Tomatoes rating 4) country where it was produced 5) language 6) plot and 7) actors associated with that particular movie name [____] API.
+   When the user provides an input (a movie), Liri grabs the 1) Year the movie came out 2) its IMDB rating 3) Rotten Tomatoes rating 4) country where it was produced 5) language 6) plot and 7) actors associated with that particular movie name [OMDB] API.
 
 4. "do-what-it-says"
     This returns whatever is written in the random.txt file. 
